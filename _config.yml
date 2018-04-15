@@ -15,11 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: One Frag Left!
 email: juan@funez.uy
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal blog. After a few years without blogging, now I'm back
-  and I'll try to keep it updated, at least one post a week. Feel free to keep
-  in touch with your questions, doubts, etc. If you want to know more about me
-  please visit my website: http://funez.uy
+description: An uruguaian python web developer with hungry for knowledge
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: juanfunez
