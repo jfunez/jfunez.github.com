@@ -1,25 +1,25 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hello, World!"
 date:   2018-04-15 18:04:31 -0300
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+As usual, when begining with a new project, we (developers) starts with “Hello, World!” expression!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+This time, a new blog has born, and will be a new challange because I choosed [Jekyll][jekyll-site] as a tool to manage and serve the static content.
 
-Jekyll also offers powerful support for code snippets:
+![Jekyll Logo](/blog/assets/img/logo-jekyll.png)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+I will post tecnhical and non-technical content, and maybe personal thoughts...
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Multilanguage (at least in portuguese, spanish, and english) content is my wish, just to force me to write, exercise and improve my writings in other languages.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Finally, I want you to be patient, I need to learn this new technology stack to improve step by step this blog.
+
+And if you asking: why the name is "One Frag Left!" ?
+Just because that's the name of my first blog, you can find it at [blogpost][jfunez-blogspot]
+
+Hope you enjoy it!
+
+[jekyll-site]: https://jekyllrb.com/
+[jfunez-blogspot]: http://jfunez.blogspot.com/
