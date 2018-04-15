@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   and I'll try to keep it updated, at least one post a week. Feel free to keep
   in touch with your questions, doubts, etc. If you want to know more about me
   please visit my website: http://funez.uy
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: juanfunez
 github_username:  jfunez

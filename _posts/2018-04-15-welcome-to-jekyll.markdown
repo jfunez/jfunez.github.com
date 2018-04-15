@@ -8,7 +8,7 @@ As usual, when begining with a new project, we (developers) starts with “Hello
 
 This time, a new blog has born, and will be a new challange because I choosed [Jekyll][jekyll-site] as a tool to manage and serve the static content.
 
-![Jekyll Logo](/blog/assets/img/logo-jekyll.png)
+![Jekyll Logo](/assets/img/logo-jekyll.png)
 
 I will post tecnhical and non-technical content, and maybe personal thoughts...
 
