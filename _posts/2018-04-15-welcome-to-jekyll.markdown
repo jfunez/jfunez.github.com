@@ -12,7 +12,7 @@ This time, a new blog has born, and will be a new challange because I choosed [J
 
 I will post technical and non-technical content, and maybe personal thoughts...
 
-Multilanguage content (at least in portuguese, spanish, and english) should be expected! Just to force me to write, exercise and improve my writings in other languages.
+Multilanguage content (at least in portuguese, spanish, and english) could be expected! Just to force me to write, exercise and improve my writings in other languages.
 
 Finally, I want you to be patient, I need to learn this new technology stack to improve step by step this blog.
 

@@ -4,6 +4,7 @@ _site/
 # jekyll
 .jekyll-metadata
 vendor/
+Gemfile.lock
 
 # vim
 *.swp
