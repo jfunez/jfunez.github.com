@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello, World!"
 date:   2018-04-15 18:04:31 -0300
-categories: jekyll update
+categories: en jekyll update
 ---
 As usual, when begining with a new project, we (developers) starts with “Hello, World!” expression!
 

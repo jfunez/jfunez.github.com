@@ -2,7 +2,7 @@
 layout: post
 title:  "How to create a blog with Jekyll and Github Pages - part 1"
 date:   2018-04-16 21:44:08 -0300
-categories: blogging setup
+categories: en tutorials
 ---
 Here goes the first post (of a series of posts) about how to create and setup your own blog with Jekyll and Github Pages.
 
