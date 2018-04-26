@@ -22,7 +22,7 @@ Escrevi este texto com a ajuda dos meus colegas: [**Roberta Takenaka**][linkedin
 com grande experiência e  muito mais tempo no SciELO do que eu.
 
 
-## Acknowledges:
+## Agradecimentos:
 
 Obrigado para Roberta e Jamil, pelo trabalho duro e a paciência de cada dia. Também obrigado para Artúro Rendón de SciELO México que colaborou com código e conhecimento no projeto.
 E finalmente, muito obrigado para Fábio Batalha, nosso chege até final de 2017, ele ajudou muito e nos deu liberdades para assumir riscos e trazer inovação para este projeto.
